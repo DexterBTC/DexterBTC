@@ -14,6 +14,9 @@ Welcome to my Github profile! I am a dedicated Crypto & Web3 professional specia
 
 ---
 
+### 🏆 Key Achievements
+* **1st Place Winner – Web3 & Blockchain Hackathon (La Paz, Bolivia with Ethereum Bolivia):** Recognized for technical architecture, innovative execution, and decentralized application design.
+
 ### 🌐 Connect With Me
 
 * 💼 **LinkedIn:** [Franz Rene Copana](https://www.linkedin.com/in/franz-rene-copana-cartagena)
